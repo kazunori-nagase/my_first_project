@@ -1,4 +1,5 @@
 hello! git
 
 Gitの操作方法について学んでいます
+branch_aを新しく作ってbranch_aで作業しています。
 
