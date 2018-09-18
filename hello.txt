@@ -1,2 +1,4 @@
-hello! gut
+hello! git
+
+Gitの操作方法について学んでいます
 
